@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Dreiecksberechner-v1.0.2\bin\Debug\Dreiecksberechner-v1.0.2.exe.config
+C:\Users\Admin\source\repos\Dreiecksberechner-v1.0.2\bin\Debug\Dreiecksberechner-v1.0.2.exe
+C:\Users\Admin\source\repos\Dreiecksberechner-v1.0.2\bin\Debug\Dreiecksberechner-v1.0.2.pdb
+C:\Users\Admin\source\repos\Dreiecksberechner-v1.0.2\obj\Debug\Dreiecksberechner-v1.0.2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Dreiecksberechner-v1.0.2\obj\Debug\Dreiecksberechner_v1._0._2.Properties.Resources.resources
+C:\Users\Admin\source\repos\Dreiecksberechner-v1.0.2\obj\Debug\Dreiecksberechner-v1.0.2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Dreiecksberechner-v1.0.2\obj\Debug\Dreiecksberechner-v1.0.2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Dreiecksberechner-v1.0.2\obj\Debug\Dreiecksberechner-v1.0.2.exe
+C:\Users\Admin\source\repos\Dreiecksberechner-v1.0.2\obj\Debug\Dreiecksberechner-v1.0.2.pdb
+C:\Users\Admin\source\repos\Dreiecksberechner-v1.0.2\obj\Debug\Dreiecksberechner_v1._0._2.Berechner.resources
